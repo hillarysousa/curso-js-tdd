@@ -1,0 +1,26 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "Package criado para o curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillarysousa/curso-js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "curso",
+    "library",
+    "course"
+  ],
+  "author": "Hillary Sousa <falecom@hillarysousa.com> (http://hillarysousa.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hillarysousa/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/hillarysousa/curso-js-tdd#readme"
+}
